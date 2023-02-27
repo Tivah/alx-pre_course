@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-ALX School
-=======
-ALX
->>>>>>> 16ffd46cb0f29bfafdf3ee599266764d06be5b75
+echo "ALX School"
